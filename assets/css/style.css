@@ -787,6 +787,12 @@ section {
 /*--------------------------------------------------------------
 # Skills
 --------------------------------------------------------------*/
+.projects .progress {
+  margin-bottom:5px;
+  height: 20px; 
+  width: 800px;
+}
+
 .skills .content h3 {
   font-weight: 700;
   font-size: 32px;
