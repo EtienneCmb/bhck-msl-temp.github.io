@@ -380,12 +380,50 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 
+.carousel-caption {
+    text-shadow: 0 1px 1px rgba(0,0,0,1.0);
+    background-color: rgba(26,26,26,0.7);
+    box-shadow: 0 0 5px rgba(26,26,26,0.5);
+    border-radius: 10px;
+}
+
 .carousel-inner .item img {
   margin: 0 auto;
 }
 
 .carousel .item img {
   margin: 0 auto;
+}
+
+.carousel h5 {
+  color: #fff;
+  font-weight: bold;
+}
+
+.carousel p {
+  color: #fff;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  background-size: 100%, 100%;
+  border-radius: 50%;
+  background-image: none;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: #0098D5;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: #0098D5;
 }
 
 /*--------------------------------------------------------------
