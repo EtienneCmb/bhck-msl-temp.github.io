@@ -10,8 +10,8 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="images/favicon/favicon3.png" rel="icon">
-  <!-- <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon"> -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Jost:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -141,7 +141,7 @@
 
       <!-- ===================== December 2th ===================== -->
         <div class="section-title">
-          <h3>2nd December</h3>
+          <h3>2th December</h3>
         </div>
 
         <table class="table table-striped">
@@ -178,7 +178,7 @@
 
       <!-- ===================== December 3th ===================== -->
         <div class="section-title">
-          <h3>3rd December</h3>
+          <h3>3th December</h3>
         </div>
 
         <table class="table table-striped">
@@ -330,7 +330,7 @@
                 <h3>GPU based frites</h3>
               </a>
               <p>
-                by Etienne Lebeugosse et Ruggero Leplusbeugosse
+                by Etienne Lebeugosse et Ruggero Lemoinbeugosse
               </p>
 
               <hr>
@@ -435,17 +435,6 @@
           </div>
 
           <div class="col-lg-4 mt-4">
-            <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="300">
-              <div class="pic"><img src="images/team/bachar.png" class="img-fluid" alt=""></div>
-              <div class="member-info">
-                <h4>Dipankar Bachar</h4>
-                <span></span>
-                <p>Research Engineer</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 mt-4">
             <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="400">
               <div class="pic"><img src="images/team/sprenger.png" class="img-fluid" alt=""></div>
               <div class="member-info">
@@ -462,7 +451,7 @@
               <div class="member-info">
                 <h4>Martin Szinte</h4>
                 <span></span>
-                <p>Postdoc</p>
+                <p>Engineer</p>
               </div>
             </div>
           </div>
@@ -658,8 +647,8 @@
           <h2>Social network</h2>
         </div>
 
-        <div class="row justify-content-center">
-            <a class="twitter-timeline" data-height="800" data-width="800" data-theme="dark" href="https://twitter.com/brainhackorg?ref_src=twsrc%5Etfw">Tweets by brainhackorg</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <div class="col">
+            <a class="twitter-timeline" data-height="800" href="https://twitter.com/brainhackorg?ref_src=twsrc%5Etfw">Tweets by brainhackorg</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         </div>
       </div>
     </section>
